@@ -1,5 +1,5 @@
-## Pagina Github Personal 🐱‍🏍
 <html>
-  <h1>Sobre mi</h1>
-  <h1>Conocimientos</h1>
+  <h1>Pagina personal</h1>
+  <h2>Sobre mi</h2>
+  <h2>Conocimientos</h2>
 </html>
