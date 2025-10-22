@@ -13,9 +13,9 @@
 <h2>📫 Sobre mí</h2>
 <ul>
   <li>🌱 Aprendiendo <strong>Python</strong> y <strong>Herramientas de ciberseguridad</strong> y como usarlas</li>
-  <li>🎯 Mi meta: Ser un desarrollador full-stack competente</li>
+  <li>🎯 Mi meta: Ser un hacker ético de sombrero blanco, con todo el conocimiento que sea posible obtener</li>
   <li>💬 Actualmente cursando <strong>ASIX1</strong>(<i>Administración de Sistemas Informaticos y Redes con perfil profesional en Ciberseguridad</i>)</li>
-  <li>📍 Vivo en [Tu Ciudad / País]
+  <li>📍 Vivo en [Tiana, Barcelona, Cataluña]
 </ul>
 
 <h2>🧠 Conocimientos</h2>
@@ -26,11 +26,11 @@
 </p>
 <h2>Lenguajes de programación</h2>
 <p>
-  <img src="https://img.shields.io/crates/dr/Python" />
+  <img src="https://img.shields.io/badge/Python-green?logo=python&logoColor=white&logoSize=auto" />
 </p>
 <h2>Sistemas Operativos</h2>
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="[https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white](https://img.shields.io/badge/Kali-%231759F3?logo=kalilinux&logoColor=white&logoSize=auto)" />
 </p>
 
 <h2>📈 Estadísticas de GitHub</h2>
