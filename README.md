@@ -31,6 +31,8 @@
 <h3>Sistemas Operativos</h3>
 <p>
   <img src="https://img.shields.io/badge/Kali-%231759F3?logo=kalilinux&logoColor=white&logoSize=auto" />
+  <img src="https://img.shields.io/badge/Garuda%20Linux%20%5BArch%5D-%23C717F3?logo=garudalinux&logoColor=white&logoSize=auto" />
+  <img src="https://img.shields.io/badge/Nobara%20Linux-%238E8A8A?logo=nobaralinux&logoColor=white&logoSize=auto" />
 </p>
 
 <h2>📈 Estadísticas de GitHub</h2>
