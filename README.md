@@ -1,6 +1,6 @@
 <!-- README.md -->
 
-<h1 align="center">¡Hola! 👋 Soy [Tu Nombre]</h1>
+<h1 align="center">Jan Closas Font</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tu-usuario&style=flat-square" alt="Visitas al perfil" />
