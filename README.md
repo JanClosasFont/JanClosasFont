@@ -35,11 +35,11 @@
   <img src="https://img.shields.io/badge/Nobara%20Linux-%238E8A8A?logo=nobaralinux&logoColor=white&logoSize=auto" />
 </p>
 
-<h2>📈 Estadísticas de GitHub</h2>
+<!-- <h2>📈 Estadísticas de GitHub</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical" />
-</p>
+</p> -->
 
 <h2>📲 Contactos</h2>
 <p>
