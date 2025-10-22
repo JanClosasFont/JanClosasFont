@@ -12,10 +12,10 @@
 
 <h2>📫 Sobre mí</h2>
 <ul>
-  <li>🌱 Aprendiendo <strong>Python</strong> y <strong>Herramientas de ciberseguridad</strong> y como usarlas</li>
+  <li>🌱 Aprendiendo - <strong>Python</strong> | <strong>Herramientas de ciberseguridad</strong> y como usarlas</li>
   <li>🎯 Mi meta: Ser un hacker ético de sombrero blanco, con todo el conocimiento que sea posible obtener</li>
   <li>💬 Actualmente cursando <strong>ASIX1</strong> (<i>Administración de Sistemas Informaticos y Redes con perfil profesional en Ciberseguridad</i>)</li>
-  <li>📍 Vivo en [Tiana, Barcelona, Cataluña]
+  <li>📍 Localidad <en>[Tiana, Barcelona, Cataluña]</en>
 </ul>
 
 <h2>🧠 Conocimientos</h2>
