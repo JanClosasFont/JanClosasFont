@@ -14,23 +14,23 @@
 <ul>
   <li>🌱 Aprendiendo <strong>Python</strong> y <strong>Herramientas de ciberseguridad</strong> y como usarlas</li>
   <li>🎯 Mi meta: Ser un hacker ético de sombrero blanco, con todo el conocimiento que sea posible obtener</li>
-  <li>💬 Actualmente cursando <strong>ASIX1</strong>(<i>Administración de Sistemas Informaticos y Redes con perfil profesional en Ciberseguridad</i>)</li>
+  <li>💬 Actualmente cursando <strong>ASIX1</strong> (<i>Administración de Sistemas Informaticos y Redes con perfil profesional en Ciberseguridad</i>)</li>
   <li>📍 Vivo en [Tiana, Barcelona, Cataluña]
 </ul>
 
 <h2>🧠 Conocimientos</h2>
-<h2>Entornos Web</h2>
+<h3>Entornos Web</h3>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
-<h2>Lenguajes de programación</h2>
+<h3>Lenguajes de programación</h3>
 <p>
   <img src="https://img.shields.io/badge/Python-green?logo=python&logoColor=white&logoSize=auto" />
 </p>
-<h2>Sistemas Operativos</h2>
+<h3>Sistemas Operativos</h3>
 <p>
-  <img src="[https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white](https://img.shields.io/badge/Kali-%231759F3?logo=kalilinux&logoColor=white&logoSize=auto)" />
+  <img src="https://img.shields.io/badge/Kali-%231759F3?logo=kalilinux&logoColor=white&logoSize=auto" />
 </p>
 
 <h2>📈 Estadísticas de GitHub</h2>
