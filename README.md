@@ -34,7 +34,9 @@
   <img src="https://img.shields.io/badge/Garuda%20Linux%20%5BArch%5D-%23C717F3?logo=garudalinux&logoColor=white&logoSize=auto" />
   <img src="https://img.shields.io/badge/Nobara%20Linux-%238E8A8A?logo=nobaralinux&logoColor=white&logoSize=auto" />
 </p>
-
+<details>
+  <p>Hola</p>
+</details>
 <!-- <h2>📈 Estadísticas de GitHub</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical" />
