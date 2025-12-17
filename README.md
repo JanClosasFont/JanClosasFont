@@ -26,7 +26,7 @@
 </p>
 <h3>Lenguajes de programación</h3>
 <p>
-  <img src="https://img.shields.io/badge/Python-green?logo=python&logoColor=white&logoSize=auto" />
+  <!--<img src="https://img.shields.io/badge/Python-green?logo=python&logoColor=white&logoSize=auto" />-->
 </p>
 <h3>Sistemas Operativos</h3>
 <p>
